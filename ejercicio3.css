@@ -1,0 +1,29 @@
+.container{
+ align-items: center;
+ border: 2px solid;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+}
+
+.subcontainer{
+ align-items: center;
+ color: white;
+ display: flex;
+ height: 200px;
+ justify-content: center;
+ text-align: center;
+ width: 20%;
+}
+
+.container1{
+ background-color: red;
+}
+
+.container2{
+ background-color: blue;
+}
+
+.container3{
+ background-color: green;
+}
